@@ -1,0 +1,46 @@
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aquamarine;
+    
+    
+
+}
+
+header{
+    width: auto;
+    height: auto;
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+main{
+    background-color: aliceblue;
+    padding: auto;
+    margin: auto;
+}
+
+footer{
+    background-color: black;
+    color: whitesmoke;
+    padding: auto;
+    height: auto;
+    text-align: center;
+    
+
+
+}
+
+h1{
+    margin: auto;
+    padding: auto;
+    outline: double;
+    outline-color: red;
+    outline-offset: 10px;
+    
+    
+    
+
+}
