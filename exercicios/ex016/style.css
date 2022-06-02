@@ -13,8 +13,10 @@ main{
     width: 599px;
     padding: 10px;
     margin: auto;
-    box-shadow: 10px 10px 10px #194e49a2;
+    box-shadow: 10px 10px 10px 25px #3d463d5e;
     border-radius: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 h1{
